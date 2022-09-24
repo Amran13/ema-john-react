@@ -1,0 +1,15 @@
+.product{
+    display: flex;
+    border-bottom: 1px solid gray;
+}
+.product img{
+    width: 30%;
+    margin: 10px;
+}
+.purchase-btn{
+    padding: 10px 20px;
+    border-radius: 10px;
+    background-color: #ff9900;
+    border: 1px solid gray;
+    font-weight: 600;
+}
